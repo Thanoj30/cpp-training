@@ -20,6 +20,5 @@ int main(){
     //adding characters to string
     str+= " is the key to success";
     cout<<str<<endl;
-
     return 0;
 }

@@ -23,5 +23,4 @@ int main(){
         cout<<studentDetails[i].first<<" "<<studentDetails[i].second<<endl;
     }
     return 0;
-
 }
