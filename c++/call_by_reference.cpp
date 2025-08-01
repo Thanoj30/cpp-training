@@ -13,9 +13,7 @@ void modifyNum(int &n)
     cout<<"Inside function, n = "<<n<<endl;
 }
 
-
 //using pointers
-
 
 /*#include<iostream>
 using namespace std;
