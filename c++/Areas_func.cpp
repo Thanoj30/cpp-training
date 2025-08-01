@@ -3,7 +3,6 @@ using namespace std;
 int area(int);
 double area(double,double);
 double area(double);
-
 int main(){
     int square_side,area_of_square;
     double length,width,area_of_rectangle;
