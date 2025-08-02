@@ -12,7 +12,5 @@ int main() {
     cout<<t1<<t2<<endl;
     swap(t1[0], t2[0]);
     cout<<t1<<" "<<t2;
-    
-  
     return 0;
 }
