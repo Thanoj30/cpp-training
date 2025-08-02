@@ -2,7 +2,6 @@
 #include <vector>
 #include <iostream>
 using namespace std;
-
 vector<int> parseInts(string str) {
     vector<int> result;
     stringstream ss(str);
