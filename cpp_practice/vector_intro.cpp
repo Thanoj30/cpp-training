@@ -5,12 +5,12 @@ int main(){
     vector<int> numbers(10);;
     // Initializing the vector with 10 elements
     int value;
-    for(int i = 0; i < 3; i++){
+    for(int i = 0; i < 10; i++){
         cout << "Enter a number: ";
         cin >> value;
         numbers.push_back(value);
     }
-    // Displaying the elements of the vector
+     //Displaying the elements of the vector
     cout << "You entered: ";
     for(int i = 0; i < numbers.size(); i++){
         cout << numbers[i] << " ";
