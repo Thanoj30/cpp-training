@@ -31,8 +31,6 @@ int main()
         cout<<endl;
     }
     return 0;
-
-        }
         for(j=1;j<=2*i-1;j++)
         {
             cout<<"*";
