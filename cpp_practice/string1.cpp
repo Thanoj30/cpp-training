@@ -16,5 +16,4 @@ int main(){
     strcat(full_name, l_name);
     cout<< "Your full name is: " << full_name << endl;
     return 0;
-
 }
