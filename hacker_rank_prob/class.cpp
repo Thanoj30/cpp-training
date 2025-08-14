@@ -2,10 +2,7 @@
 #include <sstream>
 using namespace std;
 
-/*
-Enter code for class Student here.
-Read statement for specification.
-*/
+
 class Student{
     private:
     int age,standard;
