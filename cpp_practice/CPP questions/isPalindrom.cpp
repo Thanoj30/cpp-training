@@ -20,7 +20,6 @@ int main(){
     for (int i = 0; i < n; i++) {
         arr2[i] = arr[n - 1 - i];
     }
-
 cout << isPalindrom(arr, n, arr2, m);
 return 0;
 }
