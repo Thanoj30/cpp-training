@@ -14,14 +14,13 @@ using namespace std;
 //      cout<<ptr<<endl;
 //      cout<<ptr<<endl;
 //}
-int main() {
-    int t = 9;
-    int *ptr = &t;
-    int **ptr1 = &ptr;
-    int ***ptr2 = &ptr1;
+int main(){
 
-    cout << t << endl;
-    cout << *ptr << endl;
-    cout << **ptr1 << endl;
-    cout << ***ptr2 << endl;
+
+int first=110;
+int *p=&first;
+int **q=&p;
+int second =(**q)++ +9;
+cout<<first<<" "<<second<<endl;
+return 0;
 }
