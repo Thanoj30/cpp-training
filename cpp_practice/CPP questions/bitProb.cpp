@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 int minMoves(int A, int B, int C) {
