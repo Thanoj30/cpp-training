@@ -14,7 +14,7 @@ bool isPresent(int arr[][3], int target, int row, int col) {
         }
     }
     return 0;
-}
+} 
 
 //to print row wise sum
 void printColSum(int arr[][3], int row, int col) {
