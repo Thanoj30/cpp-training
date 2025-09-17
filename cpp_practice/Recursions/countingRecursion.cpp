@@ -19,6 +19,5 @@ int main() {
     cin >> n;
     cout << endl;
     print(n);
-
     return 0;
 }
