@@ -28,7 +28,7 @@ int main(){
         arr[i]=arr1[i]+arr2[i];
         cout<<"sum at index "<<i<<" is:"<<arr[i]<<endl;
     }*/
-}
+} 
 
 
 
