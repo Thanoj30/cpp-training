@@ -19,7 +19,6 @@ int minMoves(int A, int B, int C) {
     }
     return moves;
 }
-
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
