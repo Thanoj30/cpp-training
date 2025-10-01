@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int minMoves(int A, int B, int C) {
     int moves = 0;
     for (int i = 0; i < 32; i++) {
