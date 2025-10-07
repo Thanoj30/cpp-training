@@ -46,4 +46,3 @@ int main(){
     cout << "The product of " << x << " and " << y << " is: " << result << endl;
     return 0;
 }
-
