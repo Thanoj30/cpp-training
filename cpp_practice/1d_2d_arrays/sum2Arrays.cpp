@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
+#include <vector>
+#include <algorithm>
 using namespace std;
-
 vector<int> findArraySum(vector<int>& a, int n, vector<int>& b, int m) {
     int i = n - 1, j = m - 1, carry = 0;
     vector<int> ans;
