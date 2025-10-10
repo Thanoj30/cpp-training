@@ -35,5 +35,4 @@ int main(){
     cout << "Length of str1: " << str1.length() << endl;
     cout << "Length of str2: " << str2.length() << endl;
     return 0;
-
 }
