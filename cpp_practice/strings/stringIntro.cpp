@@ -8,7 +8,6 @@ char toLowerCase(char ch) {
         return temp;
     }
 }
-
 bool checkPalindrome(char a[], int n) {
     int s = 0;
     int e = n-1;
@@ -67,7 +66,6 @@ char getMaxOccCharacter(string s) {
         }
     }
     
-
     return 'a'+ans;
 
 }
