@@ -16,7 +16,6 @@ int setBitsB(int b)
   return count; 
 }
 
-
 int setBitsA(int a)
 {
   int count = 0;
