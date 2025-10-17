@@ -6,7 +6,6 @@ void print(int arr[], int n  , int start = 0) {
     for(int i = start; i<n; i++) {
         cout << arr[i] << endl;
     }
-
 }
 
 int main() {
