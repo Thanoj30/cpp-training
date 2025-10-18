@@ -21,6 +21,5 @@ int main() {
     int i = 5;
     a(i);
     b(i);
-
     return 0;
 }
