@@ -19,5 +19,3 @@ while(it != numbers.end()) {
     }
     return 0;
 }
-
-
