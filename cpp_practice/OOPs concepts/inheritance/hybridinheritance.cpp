@@ -10,7 +10,6 @@ class friends{
         cin>>n;
         cout<<"total friends are:"<<n<<endl;
     }
-
 };
 class family{
     public:
