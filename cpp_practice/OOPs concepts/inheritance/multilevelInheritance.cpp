@@ -21,7 +21,6 @@ class Dog: public Animal {
 
 class GermanShepherd: public Dog {
 
-
 };
 
 int main() {
