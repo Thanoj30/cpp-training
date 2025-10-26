@@ -20,7 +20,4 @@ int main(){
     PrintArray(even,8);
     SwapArray(odd,7);
     PrintArray(odd,7);
-
-    
-
 }
