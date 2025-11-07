@@ -4,8 +4,6 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
-
 int main() {
     int n, q;
     int k_length, k_member;
@@ -34,4 +32,3 @@ int main() {
     
     return 0;
 }
-
