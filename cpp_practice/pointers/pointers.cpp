@@ -15,8 +15,6 @@ void function(int i,int ptr,int n){
      cout<<ptr<<endl;
 }
 // int main(){
-
-
 // int first=110;
 // int *p=&first;
 // int **q=&p;
