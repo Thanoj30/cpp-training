@@ -17,7 +17,6 @@ int main() {
     sort(v.begin(), v.end());
     for(auto num : v) {
         cout << num << " ";
-    }
-       
+    }   
     return 0;
 }

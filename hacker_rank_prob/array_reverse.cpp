@@ -13,4 +13,3 @@ int main() {
         for(int i=num;i--;){cout<<arr[i]<<" ";}
         return 0;
 }
- 

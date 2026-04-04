@@ -29,6 +29,3 @@ int main(){
         cout<<"sum at index "<<i<<" is:"<<arr[i]<<endl;
     }*/
 } 
-
-
-

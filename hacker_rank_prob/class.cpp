@@ -1,8 +1,6 @@
 #include <iostream>
 #include <sstream>
 using namespace std;
-
-
 class Student{
     private:
     int age,standard;
@@ -38,7 +36,6 @@ class Student{
             cout<<age<<","<<first_name<<","<<last_name<<","<<standard;
         }
 };
-
 int main() {
     int age, standard;
     string first_name, last_name;
@@ -56,6 +53,5 @@ int main() {
     cout << st.get_standard() << "\n";
     cout << "\n";
     st.to_string();
-    
     return 0;
 }

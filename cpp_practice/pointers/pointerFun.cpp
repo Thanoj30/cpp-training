@@ -16,5 +16,4 @@ int main(){
     cout<<*p<<endl;
     cout<<i<<endl;
     cout<<p<<endl;
-
 }
