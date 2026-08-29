@@ -1,8 +1,4 @@
-#include<iostream>
-#include<vector>
-using namespace std;
-int main(){
-    // vector<int> numbers(10);;
+vector<int> numbers(10);;
     // // Initializing the vector with 10 elements
     // int value;
     // for(int i = 0; i < 10; i++){
@@ -24,12 +20,3 @@ int main(){
     // for(int i=0;i<numbers.size();i++){
     //     cout << numbers[i]<< endl;
     // }
-    // Using vector's range constructor
-   vector<int> numbers{1, 2, 3, 4, 5};
-   vector<int> numbers2(numbers.begin(), numbers.end());
-   cout << "Elements in numbers2: ";
-    for(int num : numbers2) {
-         cout << num << " ";
-    }
-    cout << endl;
-}
